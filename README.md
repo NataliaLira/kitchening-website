@@ -1,4 +1,4 @@
-# kitchining-website
+# kitchening-website
 
 Template made based on the prototype above (layout.jpg) to practice CSS flexbox (to students coding practice).
 
